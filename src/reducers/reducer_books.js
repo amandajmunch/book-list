@@ -1,0 +1,9 @@
+export default function (){
+  return [
+    {title: 'Marlena', pages: 288, description: "The story of this particular friendship is told retrospectively by Cat, now 30-something in Brooklyn, drawn back to her youth in rural northern Michigan, where she found Marlean and her life, effectively, began. We know from the outset that within a year of their meeting ,Marlena will drown. What we discover is jsut how haunted it will leave Cat, how full of questions."},
+    {title: 'A Confederacy of Dunces', pages: 405, description: "A Confederacy of Dunces is a picaresque novel by American novelist John Kennedy Toole which reached publication in 1980, eleven years after Toole's suicide. Published through the efforts of writer Walker Percy (who also contributed a foreword) and Toole's mother, the book became first a cult classic, then a mainstream success; it earned Toole a posthumous Pulitzer Prize for Fiction in 1981, and is now considered a canonical work of modern literature of the Southern United States"},
+    {title: 'The Brief Wondrous Life of Oscar Wao', pages: 339, description: "The long-awaited first novel from Junot Díaz expands the short story about Oscar Wao—a lonely, overweight, Domincan sci-fi nerd in Paterson, New Jersey, who falls hopelessly in love with women who never reciprocate his feelings—originally published in the New Yorker seven years previously. It tells of Oscar’s sister, his mother, and his grandfather who, in defying the vicious Dominican dictator Rafael Trujillo, brought terrible suffering upon the family’s subsequent generations."},
+    {title: 'The Mothers', pages: 400, description: "Set within a contemporary black community in Southern California, Brit Bennett's mesmerizing first novel is an emotionally perceptive story about community, love, and ambition. It begins with a secret."},
+  ]
+}
+
